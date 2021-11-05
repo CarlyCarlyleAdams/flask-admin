@@ -18,7 +18,7 @@ To run this example:
 
 4. Run the application::
 
-    python examples/custom-layout/app.py
+    python examples/bootstrap4t/app.py
 
 The first time you run this example, a sample sqlite database gets populated automatically. To suppress this behaviour,
 comment the following lines in app.py:::
